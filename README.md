@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankit Jain
 
-<!--
-**aj-start9/aj-start9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend & Fullstack Developer | React & Next.js Specialist | 7+ Years of Experience**
 
-Here are some ideas to get you started:
+I'm a passionate web and mobile developer focused on building clean, scalable, and high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life across web and mobile platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- ⚛️ Build modern UI with **React, Next.js, Tailwind CSS, TypeScript**
+- 🌐 Develop fullstack apps using **Node.js, Express, MongoDB, Firebase**
+- 📱 Create cross-platform mobile apps with **React Native**
+- ⚙️ Integrate APIs, auth, and third-party services like Stripe, OpenAI, Supabase
+- 🎯 Maintain large-scale codebases and contribute to design systems
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:**  
+`React` · `Next.js` · `Redux Toolkit` · `Tailwind CSS` · `TypeScript` · `shadcn/ui`
+
+**Backend:**  
+`Node.js` · `Express.js` · `Firebase` · `MongoDB` · `Supabase` · `Prisma`
+
+**Mobile:**  
+`React Native` · `Expo` · `Redux` · `React Navigation`
+
+**Tools:**  
+`Vercel` · `Render` · `GitHub` · `Figma` · `Docker` · `Postman`
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 [Portfolio](https://my-website-dscs.vercel.app/)
+- 📬 Open to freelance, contract, and long-term roles
+
+---
+
+> “Clean code. Clear UI. Scalable solutions.” — That’s how I build.
