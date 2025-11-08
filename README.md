@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Jain
 
-💻 **Frontend & Fullstack Developer | React & Next.js Specialist | 7+ Years of Experience**
+💻 **Frontend & Fullstack Developer | React & Next.js Specialist | 8+ Years of Experience**
 
 I'm a passionate web and mobile developer focused on building clean, scalable, and high-performance applications. With a strong foundation in both frontend and backend technologies, I bring ideas to life across web and mobile platforms.
 
